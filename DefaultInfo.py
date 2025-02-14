@@ -22,7 +22,6 @@ URL_HIS_SCHOOL_TIMETABLE_INFO   =   "https://open.neis.go.kr/hub/hisTimetable"
 URL_SCHOOL_INFO                 =   "https://open.neis.go.kr/hub/schoolInfo"
 
 #print("", file=sys.stderr)
-# http://125.129.247.69:9900/ 
 
 #Database
 DB_HOST                         =   'localhost'
