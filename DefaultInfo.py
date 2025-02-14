@@ -13,7 +13,7 @@ GET_TYPE                        =   "Type=" + "json"
 KEY_IDF                         =   "?KEY="
 AND                             =   "&"
 # Neis Authorization Key
-AUTHORIZATION_KEY_NEIS          =   "fe32d0a4cab54b2a84c07319f6cd7b90"
+AUTHORIZATION_KEY_NEIS          =   "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # URL
 URL_MIS_SCHOOL_TIMETABLE_INFO   =   "https://open.neis.go.kr/hub/misTimetable"
 URL_SCHOOL_MEAL_SERVICE_INFO    =   "https://open.neis.go.kr/hub/mealServiceDietInfo"
